@@ -1,0 +1,88 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Bb]uild/
+[Ll]ogs/
+/[Mm]emoryCaptures/
+Assets/AssetStoreTools*
+*.log
+mono_crash*
+UserSettings/
+*.dwlt
+
+# Never ignore Asset meta data
+!/[Aa]ssets/**/*.meta
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.csproj.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.unitypackage
+*.symbols.zip
+
+# Gradle cache directory
+.gradle/
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.ini
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+.vs/
+ExportedObj/
+obj/
+*.unityproj
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.info
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.vsconfig
+
+# ===================================== #
+# Rider generated 						#
+# ===================================== #
+[Aa]ssets/Plugins/Editor/JetBrains*
+.idea/
+**/.idea/
+*.*.iml
+
+# =========== #
+# File ignore #
+# =========== #
+*.zip
+
+# =========== #
+# Custom      #
+# =========== #
+Recordings/
+Recordings.meta
+
